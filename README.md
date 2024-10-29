@@ -26,7 +26,15 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Output
+## Output 
+
+## ping
+![image](https://github.com/user-attachments/assets/7e342f2b-54c9-45da-a98e-dc43a0290c69)
+
+## tracert
+![image](https://github.com/user-attachments/assets/2af65443-5e2a-4cfe-b0ab-210675781a9f)
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
